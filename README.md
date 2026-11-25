@@ -10,3 +10,5 @@
 
 # Resumo
 Projeto da disciplina de Business Intelligence, de GTI6 do IFPR Campus Pinhais
+
+Link para acesso da versão final publicada: [Enade Analytics](https://app.powerbi.com/links/70ZClVfArO?ctid=008441c5-b5d8-4589-aed8-ed4e6e16c328&pbi_source=linkShare)
